@@ -16,37 +16,26 @@ Here are some ideas to get you started:
 -->
 LinkedIn GitHub LeetCode Email
 
-Experienced Software Engineer with a strong background in building scalable web applications and microservices. Proficient in a wide range of technologies including TypeScript, JavaScript, Python, and various frameworks such as React.js, Django, and Nest.js. Skilled in system architecture, optimization, and performance tuning.
-
+I’m a passionate and dedicated fresher SWE, currently working as a Trainee at HEXAWARE TECHNOLOGIES. While studying engineering, I have acquired skills in programming languages, data structures, databases, development etc. My goal is to create meaningful and efficient solutions that make a real impact. I thrive on solving problems, learning new technologies, and collaborating with others to bring ideas to life.
 
 ## Experience
-Abnormal Security (Jan. 2024 – Present)
-
-Successfully migrated SPM product to Micro frontend architecture.
-Utilized TypeScript, JavaScript, React.JS, Python, Django, Django Rest Framework.
-Physics Wallah (Mar. 2023 – Jan. 2024)
-
-Architected and deployed high-performance Nest.js microservices.
-Achieved 300MS latency at P99 for 30,000 RPM throughput.
-Integrated payment and KYC flows with I2I in the pw-pay service.
-Utilized TypeScript, JavaScript, Nest.js, Node, Express, React, MongoDB, Redis.
-Interview Kickstart (Sept. 2022 – Feb. 2023)
-
-Developed features within the 'Global Calendar' app and integrated OpenAI APIs.
-Generated over 3000+ articles.
-Utilized Python, Django, Django REST framework, React.js, JavaScript, TypeScript.
-Cisco (Jun. 2022 – Jul. 2022)
-
-Implemented Proof of Concept for "Remote Console Access."
-Developed automation scripts for batch processing.
-Utilized Linux, C, C++, Bash Scripting.
+### ❖ Data Engineer Trainee | Hexaware Technologies (Sept. 2024 – Present)
+ 
+  ● Completed all assignments, coding challenges, and case studies to build a strong foundation in data engineering, including data pipelines, ETL processes, and data transformations.
+  
+  ● Gained hands-on experience with SQL, data analytics, and problem-solving by working on real-world scenarios that ensure data quality and accessibility.
+  
+### ❖ FRONTEND DEVELOPER | Aaklan IT Solutions | (Feb 2024 – Sept 2024)  
+  ● Empowered aspiring developers at Aaklan through engaging and comprehensive instruction, equipping 
+    students with foundational skills in web development. 
+  ● Led dynamic training sessions, fostering a hands-on learning environment, and enabling students to grasp 
+    fundamental concepts, laying the groundwork for their journey into the world of web development. 
 
 ## Skills
-Languages: TypeScript, JavaScript, Python, C/C++
+Languages: C/C++, SQL, Python, C/C++
 Frameworks/Libraries: React.js, Django, Nest.js, Node.js
 Databases: MongoDB, Redis
 Tools/Platforms: Git, Docker
 Other: System Architecture, Performance Optimization
-I'm always open to colaborate on new and interesting projects!
 
-Cheers! 🥂
+I’m always looking for new challenges and opportunities to grow, so feel free to reach out if you want to connect or collaborate!
