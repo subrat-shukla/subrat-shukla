@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/subrat-shukla-%F0%9F%87%AE%F0%9F%87%B3-73106a1bb/)
+- [Email](mailto:subratshukla17@gmail.com)
 
 I’m a passionate and dedicated fresher SWE, currently working as a Trainee at HEXAWARE TECHNOLOGIES. While studying engineering, I have acquired skills in programming languages, data structures, databases, development etc. My goal is to create meaningful and efficient solutions that make a real impact. I thrive on solving problems, learning new technologies, and collaborating with others to bring ideas to life.
 
