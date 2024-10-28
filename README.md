@@ -41,7 +41,7 @@ Implemented Proof of Concept for "Remote Console Access."
 Developed automation scripts for batch processing.
 Utilized Linux, C, C++, Bash Scripting.
 
-##Skills
+## Skills
 Languages: TypeScript, JavaScript, Python, C/C++
 Frameworks/Libraries: React.js, Django, Nest.js, Node.js
 Databases: MongoDB, Redis
